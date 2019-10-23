@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### About the project
+## About the project
 This is a service oriented website in which a user can issue a post about their lost dog by filling the form from "ISSUEFORM" and contribute in finding the dogs that are lost by filling another form "FOUNDERDETAILS". These form data are then visualised in newsfeed component. 
 
 ## Available Scripts
